@@ -1,0 +1,16 @@
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">天气预报</string>
+    <string name="chooes_city">选择城市：</string>
+    <string name="data">时间：</string>
+    <string name="today">今天</string>
+    <string name="mare">未来>></string>
+    <string name="choose">请选择</string>
+    <string name="today_weather">今日预报</string>
+    <string name="temperture">体感温度</string>
+    <string name="humidity">空气湿度</string>
+    <string name="wind">风向风力</string>
+    <string name="today_details">详细信息</string>
+    <string name="warn">热心提示</string>
+
+</resources>
